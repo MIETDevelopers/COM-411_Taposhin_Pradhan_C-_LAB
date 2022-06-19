@@ -1,7 +1,7 @@
-#include<fstream>
-#include<iostream>
-#include<stdio.h>
-#include<stdlib.h>
+#include <fstream>
+#include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
 using namespace std;
 
 // Bookshop Class
